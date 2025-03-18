@@ -8,3 +8,5 @@ Bu proje COVID-19 bazlı bir veri seti üzerinde aykırı değer tespiti, kümel
 
 Her bir adımda nasıl uygulamalar yapıldığı ve nasıl bir inceleme sürecine gidildiği görsel desteklerle birlikte gösterilmiş ve açıklanmıştır.
 
+Aynı zamanda her bir adım Knime platformu üzerinden de denenmiş ve görsel olarak belirtilmiştir.
+
