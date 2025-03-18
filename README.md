@@ -4,9 +4,9 @@
 
 # ❓İçeriği Neler?
 
-Bu proje COVID-19 bazlı bir veri seti üzerinde aykırı değer tespiti, kümeleme, sınıflandırma, doğrusal regresyon ve birliktelik kural çıkarımı adımlarını içermektedir. 
+- Bu proje COVID-19 bazlı bir veri seti üzerinde aykırı değer tespiti, kümeleme, sınıflandırma, doğrusal regresyon ve birliktelik kural çıkarımı adımlarını içermektedir. 
 
-Her bir adımda nasıl uygulamalar yapıldığı ve nasıl bir inceleme sürecine gidildiği görsel desteklerle birlikte gösterilmiş ve açıklanmıştır.
+- Her bir adımda nasıl uygulamalar yapıldığı ve nasıl bir inceleme sürecine gidildiği görsel desteklerle birlikte gösterilmiş ve açıklanmıştır.
 
-Aynı zamanda her bir adım Knime platformu üzerinden de denenmiş ve görsel olarak belirtilmiştir.
+- Aynı zamanda her bir adım Knime platformu üzerinden de denenmiş ve görsel olarak belirtilmiştir.
 
